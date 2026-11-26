@@ -56,7 +56,37 @@ Emergency Blood Bank Management System is a Java-based desktop application devel
 
 
 
-\## Developer
 
-Tasnuva Rahannum, Anik Hasan, Sadia Islam
+
+\## Team Members \& Contributions
+
+
+
+This project was developed collaboratively by three team members.
+
+
+
+| Team Member | Contribution |
+
+|---|---|
+
+| \*\*Tasnuva Rahannum\*\* | Donor Management |
+
+| \*\*Sadia Islam Mim\*\* | Receiver Management |
+
+| \*\*MD. MINHAJ ROWFUN RABBI ANIK\*\* | Admin Management |
+
+
+
+\### Responsibilities
+
+
+
+\- \*\*Tasnuva Rahannum:\*\* Developed the Donor section, handling donor-related information and functionalities.
+
+\- \*\*Sadia Islam Mim:\*\* Developed the Receiver section, handling receiver-related information and functionalities.
+
+\- \*\*MD. MINHAJ ROWFUN RABBI ANIK:\*\* Developed the Admin section, handling administrator-related information and functionalities.
+
+
 
