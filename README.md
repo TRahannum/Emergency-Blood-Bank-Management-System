@@ -66,15 +66,13 @@ This project was developed collaboratively by three team members.
 
 
 
-| Team Member | Contribution |
+&#x20;Contribution:
 
-|---|---|
+| Tasnuva Rahannum | Donor Management |
 
-| \*\*Tasnuva Rahannum\*\* | Donor Management |
+| Sadia Islam Mim | Receiver Management |
 
-| \*\*Sadia Islam Mim\*\* | Receiver Management |
-
-| \*\*MD. MINHAJ ROWFUN RABBI ANIK\*\* | Admin Management |
+| MD. MINHAJ ROWFUN RABBI ANIK | Admin Management |
 
 
 
@@ -87,6 +85,4 @@ This project was developed collaboratively by three team members.
 \- \*\*Sadia Islam Mim:\*\* Developed the Receiver section, handling receiver-related information and functionalities.
 
 \- \*\*MD. MINHAJ ROWFUN RABBI ANIK:\*\* Developed the Admin section, handling administrator-related information and functionalities.
-
-
 
